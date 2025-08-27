@@ -171,3 +171,9 @@ C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\obj\Debug\net8.0\refint
 C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\obj\Debug\net8.0\WholesaleRetailStore.pdb
 C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\obj\Debug\net8.0\WholesaleRetailStore.genruntimeconfig.cache
 C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\obj\Debug\net8.0\ref\WholesaleRetailStore.dll
+C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\bin\Debug\net8.0\frontend\package-lock.json
+C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\bin\Debug\net8.0\frontend\package.json
+C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\bin\Debug\net8.0\frontend\tsconfig.app.json
+C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\bin\Debug\net8.0\frontend\tsconfig.json
+C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\bin\Debug\net8.0\frontend\tsconfig.node.json
+C:\Users\Mthoko Vuyani\source\repos\WholesaleRetailStore\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
